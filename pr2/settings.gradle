@@ -1,0 +1,11 @@
+rootProject.name = "pr2"
+include ':app'
+include ':thirdclass'
+include ':datetime'
+include ':dialog'
+include ':independentwork'
+include ':intentfilter'
+include ':lifecycleactivity'
+include ':multiactivity'
+include ':notificationapp'
+include ':toastapp'
